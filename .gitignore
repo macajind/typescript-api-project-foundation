@@ -1,0 +1,15 @@
+# Dependency directory
+node_modules/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Ignore built ts files
+dist/
+
+# API keys, passwords and secrets
+.env
+
+# Common files
+*.log*
